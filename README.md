@@ -105,13 +105,13 @@ data/<br>
 
 ## 🖼️ Screenshots
 
-Training Results
-![Training Results](result.png)
+### Training Results
+![Training Results](test.png)
 
-Streamlit UI
+### Streamlit UI
 ![Streamlit UI](ui.png)
 
-Prediction on test image
+### Prediction on test image
 ![Prediction](predict.png)
 
 ## 🚧 Future Enhancements
