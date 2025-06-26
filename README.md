@@ -50,7 +50,8 @@ This project is designed to recognize American Sign Language (ASL) alphabets usi
 ├── app.py # Streamlit UI<br>
 ├── asl.py # Prediction logic<br>
 ├── cnn_asl.joblib # Trained CNN model<br>
-├── predict.jpg # Prediction image<br>
+├── predict.png # Prediction image<br>
+├── ui.png # Streamlit UI<br>
 ├── result.png # Model Training Results<br>
 ├── README.md # Documentation<br>
 
