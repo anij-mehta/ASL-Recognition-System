@@ -105,7 +105,14 @@ data/<br>
 
 ## 🖼️ Screenshots
 
+Training Results
+![Training Results](result.png)
 
+Streamlit UI
+![Streamlit UI](ui.png)
+
+Prediction on test image
+![Prediction](predict.png)
 
 ## 🚧 Future Enhancements
 
