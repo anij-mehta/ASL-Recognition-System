@@ -6,16 +6,16 @@ A deep learning-based ASL Sign Language Recognition System that uses a CNN model
 
 ## 📑 Table of Contents
 
-- [About the Project](#about-the-project)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Repo Structure](#repo-structure)
-- [Kaggle Database](#kaggle-database)
-- [Setup Instructions](#setup-instructions)
-- [How It Works](#how-it-works)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
-- [Contact](#contact)
+- [About the Project](#-about-the-project)
+- [Tech Stack](#-tech-stack)
+- [Features](#-features)
+- [Repo Structure](#-repo-structure)
+- [Kaggle Database](#-kaggle-database)
+- [Setup Instructions](#-setup-instructions)
+- [How It Works](#-how-it-works)
+- [Screenshots](#-screenshots)
+- [Future Enhancements](#-future-enhancements)
+- [Contact](#-contact)
 
 ---
 
@@ -120,4 +120,4 @@ data/<br>
 
 Anij Mehta<br>
 🔗 [GitHub](https://github.com/anij-mehta)<br>
-🔗 [LinkedIn](www.linkedin.com/in/anij-mehta)
+🔗 [LinkedIn](https://www.linkedin.com/in/anij-mehta)
