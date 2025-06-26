@@ -46,13 +46,13 @@ This project is designed to recognize American Sign Language (ASL) alphabets usi
 
 ## 📂 Repo Structure
 
-.
-├── app.py # Streamlit UI
-├── asl.py # Prediction logic
-├── cnn_asl.joblib # Trained CNN model
-├── predict.jpg # Prediction image
-├── result.png # Model Training Results
-├── README.md # Documentation
+.<br>
+├── app.py # Streamlit UI<br>
+├── asl.py # Prediction logic<br>
+├── cnn_asl.joblib # Trained CNN model<br>
+├── predict.jpg # Prediction image<br>
+├── result.png # Model Training Results<br>
+├── README.md # Documentation<br>
 
 
 ---
@@ -63,9 +63,9 @@ This project uses the publicly available [ASL Alphabet Dataset on Kaggle](https:
 
 Expected structure after download:
 
-data/
-├── train/
-└── test/
+data/<br>
+├── train/<br>
+└── test/<br>
 
 
 ---
@@ -79,13 +79,13 @@ data/
    cd asl-sign-language-recognition
    ```
 
-2. Install dependencies:
+2. **Install dependencies:**
 
   ```bash
   pip install streamlit opencv-python joblib
   ```
 
-3. Run the app:
+3. **Run the app:**
 
   ```bash
      streamlit run app.py
@@ -118,7 +118,6 @@ data/
 
 ## 📬 Contact
 
-Anij Mehta
-📧 anij@example.com
-🔗 GitHub
-🔗 LinkedIn
+Anij Mehta<br>
+🔗 [GitHub](https://github.com/anij-mehta)<br>
+🔗 [LinkedIn](www.linkedin.com/in/anij-mehta)
